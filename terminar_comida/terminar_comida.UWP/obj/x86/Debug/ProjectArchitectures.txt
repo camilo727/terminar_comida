@@ -1,0 +1,1 @@
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida.UWP\terminar_comida.UWP.csproj;x86

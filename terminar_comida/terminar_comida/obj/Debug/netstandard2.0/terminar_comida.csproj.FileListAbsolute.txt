@@ -1,0 +1,16 @@
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\bin\Debug\netstandard2.0\terminar_comida.deps.json
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\bin\Debug\netstandard2.0\terminar_comida.dll
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\terminar_comida.csprojAssemblyReference.cache
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\terminar_comida.AssemblyInfoInputs.cache
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\terminar_comida.AssemblyInfo.cs
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\bin\Debug\netstandard2.0\ref\terminar_comida.dll
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\bin\Debug\netstandard2.0\terminar_comida.pdb
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\View\CategoriaPage.xaml.g.cs
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\View\ProductoPage.xaml.g.cs
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\View\VerPorductoPage.xaml.g.cs
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\terminar_comida.dll
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\ref\terminar_comida.dll
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\terminar_comida.pdb
+C:\Users\Juan camilo\source\repos\terminar_comida\terminar_comida\terminar_comida\obj\Debug\netstandard2.0\XamlC.stamp
